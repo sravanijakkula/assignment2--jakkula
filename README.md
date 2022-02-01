@@ -8,7 +8,6 @@ modified file
 ---
 
 # My Favourite Restaurant
-
 The nearest airport is Gannavaram Airport
 
 1. Take Right at the enterance of the airport and Walk for 15 minutes.
