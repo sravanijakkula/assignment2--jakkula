@@ -35,6 +35,12 @@ Table describes about the sports that iam interested and<br>would like to sugges
 | Badminton   | Badminton court   | $150-Bat,$20-cock |
 ---
 
+---
+# Quotes
+>It always seems impossible,until its done by Nelson Mandela
+>you will face many defeats in life, but never let yourself be defeated by Maya Angelou
+---
+
 
 
 
