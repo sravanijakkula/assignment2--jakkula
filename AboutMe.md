@@ -3,4 +3,4 @@ Iam kind of a person who can adjust myself in any type of situation.<br>I will t
 
 ![my_pik](https://user-images.githubusercontent.com/97769309/152074257-71719c99-99d0-4f63-8319-c2761993cb99.jpeg)
 
-(https://user-images.githubusercontent.com/97769309/152074257-71719c99-99d0-4f63-8319-c2761993cb99.jpeg)
+[link_to_mypicture](https://user-images.githubusercontent.com/97769309/152074257-71719c99-99d0-4f63-8319-c2761993cb99.jpeg)
