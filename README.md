@@ -24,5 +24,17 @@ The nearest airport is Gannavaram Airport
 
 ![Link to my AboutMe.md](https://github.com/sravanijakkula/assignment2--jakkula/blob/main/AboutMe.md)
 
+---
+Table describes about the sports that iam interested and<br>would like to suggest to my friends in order to make them interested and physically active.<br> First column shows the Name of sports/activities.<br>Second column shows the Location and Third column represents the amount need to pay for personal equipment.
+# Sports/Activities
+| Sports_Name | Location | Amount |
+|:---         |:---      |:---    |
+| Kabbadi     | Kabbadi court | $20,Knee_pads |
+| Volley Ball | Volley Ball court | $50-Teeshirt,$30-handgloveses |
+| Basket Ball | Basket Ball court | $50-Teeshirt,$100-Ball |
+| Badminton   | Badminton court   | $150-Bat,$20-cock |
+---
+
+
 
 
