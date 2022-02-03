@@ -25,8 +25,9 @@ The nearest airport is Gannavaram Airport
 ![Link to my AboutMe.md](https://github.com/sravanijakkula/assignment2--jakkula/blob/main/AboutMe.md)
 
 ---
-Table describes about the sports that iam interested and<br>would like to suggest to my friends in order to make them interested and physically active.<br> First column shows the Name of sports/activities.<br>Second column shows the Location and Third column represents the amount need to pay for personal equipment.
 # Sports/Activities
+Table describes about the sports that iam interested and<br>would like to suggest to my friends in order to make them interested and physically active.<br> First column shows the Name of sports/activities.<br>Second column shows the Location and Third column represents the amount need to pay for personal equipment.
+
 | Sports_Name | Location | Amount |
 |:---         |:---      |:---    |
 | Kabbadi     | Kabbadi court | $20,Knee_pads |
@@ -42,6 +43,7 @@ Table describes about the sports that iam interested and<br>would like to sugges
 >you will face many defeats in life, but never let yourself be defeated by Maya Angelou.
 ---
 
+---
 # Code Fencing
 >In computer science, 2-satisfiability, 2-SAT or just 2SAT is a computational problem of assigning values to variables, each of which has two possible values, in order to satisfy a system of constraints on pairs of variables. It is a special case of the general Boolean satisfiability problem, which can involve constraints on more than two variables, and of constraint satisfaction problems, which can allow more than two choices for the value of each variable. But in contrast to those more general problems, which are NP-complete, 2-satisfiability can be solved in polynomial time.
 
@@ -109,6 +111,9 @@ void add_disjunction(int a, bool na, int b, bool nb) {
 ```
 
 <https://cp-algorithms.com/graph/2SAT.html>
+---
+
+
 
 
 
