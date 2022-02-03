@@ -22,7 +22,7 @@ The nearest airport is Gannavaram Airport
     * Mutton special Biryani
 ---
 
-![Link to my AboutMe.md](https://github.com/sravanijakkula/assignment2--jakkula/blob/main/AboutMe.md)
+[Link to my AboutMe.md](https://github.com/sravanijakkula/assignment2--jakkula/blob/main/AboutMe.md)
 
 ---
 # Sports/Activities
